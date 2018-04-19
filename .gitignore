@@ -1,2 +1,6 @@
+*
+.idea
+MXD
 
-.idea\*
+*.json
+.idea/workspace.xml

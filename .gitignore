@@ -1,6 +1,5 @@
-*
-.idea
+*.idea
 MXD
-
 *.json
 .idea/workspace.xml
+*FeatureCount
